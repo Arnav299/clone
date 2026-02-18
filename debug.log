@@ -1,0 +1,74 @@
+2026-02-15T12:28:18.888Z: Attempting signup for asachdeva230@gmail.com
+2026-02-15T12:28:19.840Z: Signup failed: Invalid API key
+2026-02-15T12:28:44.580Z: Attempting signup for asachdeva230@gmail.com
+2026-02-15T12:28:45.144Z: Signup failed: Invalid API key
+2026-02-15T12:36:56.291Z: Attempting signup for asachdeva230@gmail.com
+2026-02-15T12:36:57.345Z: Signup failed: Invalid API key
+2026-02-15T12:37:05.816Z: Attempting login for asachdeva230@gmail.com
+2026-02-15T12:37:06.260Z: Login failed: Invalid API key
+2026-02-15T12:42:42.245Z: Attempting signup for asachdeva230@gmail.com
+2026-02-15T12:42:43.265Z: Signup failed: Invalid API key
+2026-02-15T12:42:51.352Z: Attempting signup for asachdeva230@gmail.com
+2026-02-15T12:42:51.793Z: Signup failed: Invalid API key
+2026-02-15T12:43:00.673Z: Attempting login for asachdeva230@gmail.com
+2026-02-15T12:43:01.152Z: Login failed: Invalid API key
+2026-02-15T12:43:13.251Z: Attempting login for ARNAV.23FE10CSE00072@muj.manipal.edu
+2026-02-15T12:43:13.737Z: Login failed: Invalid API key
+2026-02-15T13:14:27.869Z: Attempting signup for asachdeva230@gmail.com
+2026-02-15T13:14:28.779Z: Signup failed: Invalid API key
+2026-02-15T13:21:27.684Z: Attempting login for asachdeva230@gmail.com
+2026-02-15T13:21:29.481Z: Login failed: Email not confirmed
+2026-02-15T13:21:35.035Z: Attempting signup for asachdeva230@gmail.com
+2026-02-15T13:21:39.510Z: Signup success for asachdeva230@gmail.com
+2026-02-15T13:21:53.784Z: Attempting login for asachdeva230@gmail.com
+2026-02-15T13:21:54.900Z: Login failed: Email not confirmed
+2026-02-15T13:22:00.963Z: Attempting signup for asachdeva230@gmail.com
+2026-02-15T13:22:01.663Z: Signup failed: For security purposes, you can only request this after 34 seconds.
+2026-02-15T13:22:14.497Z: Attempting login for asachdeva230@gmail.com
+2026-02-15T13:22:15.294Z: Login failed: Email not confirmed
+2026-02-15T13:23:30.136Z: Attempting signup for asachdeva230@gmail.com
+2026-02-15T13:23:31.270Z: Signup failed: email rate limit exceeded
+2026-02-15T13:23:40.431Z: Attempting signup for asachdeva@gmail.com
+2026-02-15T13:23:41.931Z: Signup failed: email rate limit exceeded
+2026-02-15T13:26:42.964Z: Attempting login for asachdeva230@gmail.com
+2026-02-15T13:26:44.217Z: Login failed: Email not confirmed
+2026-02-15T13:26:48.745Z: Attempting signup for asachdeva230@gmail.com
+2026-02-15T13:26:49.158Z: Signup failed: email rate limit exceeded
+2026-02-15T13:27:08.077Z: Attempting signup for arnav@gmail.com
+2026-02-15T13:27:09.159Z: Signup failed: email rate limit exceeded
+2026-02-15T13:27:14.148Z: Attempting login for asachdeva230@gmail.com
+2026-02-15T13:27:15.009Z: Login failed: Email not confirmed
+2026-02-15T16:13:20.272Z: Attempting login for asachdeva230@gmail.com
+2026-02-15T16:13:25.343Z: Login failed: fetch failed
+2026-02-15T16:13:30.058Z: Attempting signup for asachdeva230@gmail.com
+2026-02-15T16:13:30.864Z: Signup failed: fetch failed
+2026-02-15T18:23:29.013Z: Attempting signup for asachdeva230@gmail.com
+2026-02-15T18:23:34.637Z: Signup success (no session - confirmation needed?) for asachdeva230@gmail.com
+2026-02-15T18:23:41.883Z: Attempting login for asachdeva230@gmail.com
+2026-02-15T18:23:43.474Z: Login failed: Email not confirmed
+2026-02-15T18:25:34.569Z: Attempting login for asachdeva230@gmail.com
+2026-02-15T18:25:35.886Z: Login success for asachdeva230@gmail.com
+2026-02-15T18:42:09.396Z: Attempting login for asachdeva230@gmail.com
+2026-02-15T18:42:10.629Z: Login success for asachdeva230@gmail.com
+2026-02-15T20:05:07.672Z: Attempting login for asachdeva230@gmail.com
+2026-02-15T20:05:09.069Z: Login success for asachdeva230@gmail.com
+2026-02-16T03:51:44.710Z: Attempting login for asachdeva230@gmail.com
+2026-02-16T03:51:45.480Z: Login success for asachdeva230@gmail.com
+2026-02-16T14:18:19.331Z: Attempting login for asachdeva230@gmail.com
+2026-02-16T14:18:19.989Z: Login success for asachdeva230@gmail.com
+2026-02-16T14:27:13.187Z: Attempting login for asachdeva230@gmail.com
+2026-02-16T14:27:13.911Z: Login success for asachdeva230@gmail.com
+2026-02-16T14:33:24.547Z: Attempting login for asachdeva230@gmail.com
+2026-02-16T14:33:25.859Z: Login success for asachdeva230@gmail.com
+2026-02-16T15:43:48.582Z: Attempting login for asachdeva230@gmail.com
+2026-02-16T15:43:49.356Z: Login success for asachdeva230@gmail.com
+2026-02-16T17:56:13.769Z: Attempting login for asachdeva230@gmail.com
+2026-02-16T17:56:14.875Z: Login success for asachdeva230@gmail.com
+2026-02-16T18:17:53.138Z: Attempting login for asachdeva230@gmail.com
+2026-02-16T18:17:54.251Z: Login success for asachdeva230@gmail.com
+2026-02-16T19:17:30.469Z: Attempting login for asachdeva230@gmail.com
+2026-02-16T19:17:31.582Z: Login success for asachdeva230@gmail.com
+2026-02-16T21:26:54.882Z: Attempting login for asachdeva230@gmail.com
+2026-02-16T21:26:55.752Z: Login success for asachdeva230@gmail.com
+2026-02-17T04:02:13.288Z: Attempting login for asachdeva230@gmail.com
+2026-02-17T04:02:14.096Z: Login failed: fetch failed
