@@ -1,14 +1,13 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  eslint: {
-    ignoreDuringBuilds: true,
-  },
-  typescript: {
-    ignoreBuildErrors: true,
-  },
+  output: "export",
+
+  basePath: "/clone",        // 👈 repo name
+  assetPrefix: "/clone/",
+
   images: {
     unoptimized: true,
   },
-}
+};
 
-export default nextConfig
+export default nextConfig;
